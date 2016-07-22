@@ -10,7 +10,7 @@ package Support_Better_Environment_Server
 		{
 			case "WaterHeight":
 				if(%a $= "Inf")
-					EnvGuiServer::SetInfiniteWater();
+					EnvGuiServer::SetInfiniteWater(1);
 				else
 					if($EnvGuiServer::WaterInfinite && !$EnvGuiServer::SimpleMode) //dedi warning: test this
 						return;
@@ -19,7 +19,7 @@ package Support_Better_Environment_Server
 	}
 };
 
-function EnvGuiServer::SetInfiniteWater(%client,%a)
+function EnvGuiServer::SetInfiniteWater(%a)
 {
 	if(%a)
 	{
