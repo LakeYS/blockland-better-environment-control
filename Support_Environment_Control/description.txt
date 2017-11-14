@@ -1,2 +1,3 @@
-Title: Better Environment
-Author: LakeYS
+Title: Environment and Map Control
+Author: Lake
+Expands Blockland's environment configuration.
