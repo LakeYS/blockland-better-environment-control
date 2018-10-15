@@ -16,5 +16,5 @@ Features marked with an asterisk (\*) are client-sided, meaning they work on any
 - Enable or disable snowballs in any environment.
 - 'NONE' option for sunflares.
 
-# Screenshot (Early Beta)
+# Screenshot (Early Alpha)
 ![Screenshot](https://raw.githubusercontent.com/LakeYS/blockland-better-environment-control/master/Screenshot1.png)
