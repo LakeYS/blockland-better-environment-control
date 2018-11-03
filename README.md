@@ -15,6 +15,7 @@ Features marked with an asterisk (\*) are client-sided, meaning they work on any
 - Save environment configurations and load them automatically when the server starts. (Especially useful for dedicated servers
 - Enable or disable snowballs in any environment.
 - 'NONE' option for sunflares.
+- (?) View and save environment configurations from other servers.
 
 # Screenshot (Early Alpha)
 ![Screenshot](https://raw.githubusercontent.com/LakeYS/blockland-better-environment-control/master/Screenshot1.png)
