@@ -1,3 +1,6 @@
+# Development Notice
+Development on this project is on hold for now in the interest of working on other projects. Join me on Discord for updates: https://discord.gg/s3vCQba
+
 # Better Environment Configuration for Blockland
 This is a new add-on for Blockland that aims to expand the game's environment controls.
 
